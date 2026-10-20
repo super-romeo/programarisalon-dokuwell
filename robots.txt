@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://programarisalon.dokuwell.com/sitemap.xml
+Sitemap: https://programarisalon.dokuline.com/sitemap.xml
